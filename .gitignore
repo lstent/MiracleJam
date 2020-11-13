@@ -42,6 +42,10 @@
 *.VC.opendb
 
 # Precompiled Assets
+/GamJam/Saved
+/GamJam/Intermediate
+/GamJam/DerivedDataCache
+
 SourceArt/**/*.png
 SourceArt/**/*.tga
 
